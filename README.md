@@ -1,3 +1,8 @@
+# View tools klikindomaret
+<center><img src="img/licensi.png" alt="indomaret"></center>
+<center><img src="img/indomaret.png" alt="indomaret"></center>
+
+
 # Installations tools indomaret command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```shell
 $ git clone https://github.com/ipkzone/klikindomaret_tools
