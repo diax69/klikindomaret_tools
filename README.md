@@ -2,6 +2,18 @@
 <center><img src="img/licensi.png" alt="indomaret"></center>
 <center><img src="img/indomaret.png" alt="indomaret"></center>
 
+# Fiture tools klikindomaret
+- Auto masukan keranjang items dengan kode toko
+- Auto delete keranjang items
+- Auto claim kode vocher
+- Registrasi akun with auto verifikasi PIN dengan TMail
+- Auto check stok di toko
+- Auto checkout pembayaran virtual
+- Auto check PIN transaksi 
+- Auto check keranjang items
+- Auto add data address ( berlaku jika akun kalian kosong data alamat nya )
+- Auto check vocher $ auto delete vocher
+
 
 # Installations tools indomaret command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```shell
