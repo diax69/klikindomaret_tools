@@ -15,7 +15,7 @@ Fiture tools klikindomaret
 - Auto check vocher & auto delete vocher
 
 
-Installations tools indomaret command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
+# Installations tools indomaret command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```
 $ git clone https://github.com/ipkzone/klikindomaret_tools
 $ cd /klikindomaret_tools
@@ -58,7 +58,7 @@ Keterangan
 
 Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20klikindomaret%20bos).<br>
 
-Note
+# Note
 The script runs with the license key,
 if you don't have a license key then you can't run it,
 to get a license key you have to ask the creator for its activation for a donation of course,
