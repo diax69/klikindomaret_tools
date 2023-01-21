@@ -38,13 +38,10 @@ Copyright (c) The PHP Group<br>
 ```shell
 $ uname -a
 ```
-
 > Response<br>
 > Linux localhost 4.9.227-perf+ #1 SMP PREEMPT Thu May 5 15:46:07 CST 2022 aarch64 Android<br>
 > Berarti karnel kamu adalah (aarch64)<br>
 > Lalu jalankan installer anda ikuti command di bawah ini.
-
-
 
 ```
 $ git clone https://github.com/ipkzone/klikindomaret_tools
@@ -54,10 +51,12 @@ $ php installer.php --aarch64_php7
 ```
 Keterangan
 > --armv7_php7 ( Untuk PHP versi 7 dengan karnel armv7 )
-- --aarch64_php7 ( Untuk PHP versi 7 dengan karnel aarch64 )
-- --armv7_php8 ( Untuk PHP versi 8 dengan karnel armv7 )
-- --aarch64_php8 ( Untuk PHP versi 8 dengan karnel aarch64 )
+> --aarch64_php7 ( Untuk PHP versi 7 dengan karnel aarch64 )
+> --armv7_php8 ( Untuk PHP versi 8 dengan karnel armv7 )
+> --aarch64_php8 ( Untuk PHP versi 8 dengan karnel aarch64 )
 
+
+Contact admint for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20klikindomaret%20bos).
 
 # Note
 The script runs with the license key,
