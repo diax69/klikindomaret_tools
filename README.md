@@ -1,8 +1,8 @@
-# View tools klikindomaret
+View tools klikindomaret
 <center><img src="img/licensi.png" alt="indomaret"></center>
 <center><img src="img/indomaret.png" alt="indomaret"></center>
 
-# Fiture tools klikindomaret
+Fiture tools klikindomaret
 - Auto masukan keranjang items dengan kode toko
 - Auto delete keranjang items
 - Auto claim kode vocher
@@ -15,13 +15,13 @@
 - Auto check vocher & auto delete vocher
 
 
-# Installations tools indomaret command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
+Installations tools indomaret command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```
 $ git clone https://github.com/ipkzone/klikindomaret_tools
 $ cd /klikindomaret_tools
 $ php run.php --indomaret
 ```
-# Step installations Installer
+Step installations Installer
 > Untuk cek php anda versi berapa ketikan command di bawah ini.
 ```shell
 $ php -v
@@ -58,7 +58,7 @@ Keterangan
 
 Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20klikindomaret%20bos).<br>
 
-# Note
+Note
 The script runs with the license key,
 if you don't have a license key then you can't run it,
 to get a license key you have to ask the creator for its activation for a donation of course,
