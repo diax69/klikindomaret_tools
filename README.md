@@ -6,10 +6,8 @@
 # Installations tools indomaret command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```shell
 $ git clone https://github.com/ipkzone/klikindomaret_tools
+$ cd /klikindomaret_tools
 $ php run.php --indomaret
-
-- Need licensi for aktivasi login in tools 
-- The license key is active for 30 days and if you want it to last forever until the tools die, you can contact me via WhatsApp.
 ```
 # Step installations Installer
 ```shell
@@ -36,6 +34,7 @@ $ uname -a
 
 ```shell
 $ git clone https://github.com/ipkzone/klikindomaret_tools
+$ cd /klikindomaret_tools
 $ cd /installer
 $ php installer.php --aarch64_php7
 
@@ -45,3 +44,12 @@ $ php installer.php --aarch64_php7
 - --armv7_php8 ( Untuk PHP versi 8 dengan karnel armv7 )
 - --aarch64_php8 ( Untuk PHP versi 8 dengan karnel aarch64 )
 ```
+
+# Note
+The script runs with the license key,
+if you don't have a license key then you can't run it,
+to get a license key you have to ask the creator for its activation for a donation of course,
+This script blocks multiple user logins so that the script remains safe and secure.
+
+regards,
+**Iddant ID**
