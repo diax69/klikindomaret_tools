@@ -12,7 +12,7 @@
 - Auto check PIN transaksi 
 - Auto check keranjang items
 - Auto add data address ( berlaku jika akun kalian kosong data alamat nya )
-- Auto check vocher $ auto delete vocher
+- Auto check vocher & auto delete vocher
 
 
 # Installations tools indomaret command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
