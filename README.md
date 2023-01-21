@@ -50,13 +50,13 @@ $ cd /installer
 $ php installer.php --aarch64_php7
 ```
 Keterangan
-> --armv7_php7 ( Untuk PHP versi 7 dengan karnel armv7 )
-> --aarch64_php7 ( Untuk PHP versi 7 dengan karnel aarch64 )
-> --armv7_php8 ( Untuk PHP versi 8 dengan karnel armv7 )
-> --aarch64_php8 ( Untuk PHP versi 8 dengan karnel aarch64 )
+> --armv7_php7 ( Untuk PHP versi 7 dengan karnel armv7 )<br>
+> --aarch64_php7 ( Untuk PHP versi 7 dengan karnel aarch64 )<br>
+> --armv7_php8 ( Untuk PHP versi 8 dengan karnel armv7 )<br>
+> --aarch64_php8 ( Untuk PHP versi 8 dengan karnel aarch64 )<br>
 
 
-Contact admint for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20klikindomaret%20bos).
+>Contact admint for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20klikindomaret%20bos).<br>
 
 # Note
 The script runs with the license key,
