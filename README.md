@@ -38,12 +38,10 @@ Copyright (c) The PHP Group<br>
 ```shell
 $ uname -a
 ```
-```diff
 > Response<br>
-> Linux localhost 4.9.227-perf+ #1 SMP PREEMPT Thu May 5 15:46:07 CST 2022 -aarch64 Android<br>
+> Linux localhost 4.9.227-perf+ #1 SMP PREEMPT Thu May 5 15:46:07 CST 2022 aarch64 Android<br>
 > Berarti karnel kamu adalah (aarch64)<br>
 > Lalu jalankan installer anda ikuti command di bawah ini.
-```
 ```
 $ git clone https://github.com/ipkzone/klikindomaret_tools
 $ cd /klikindomaret_tools
