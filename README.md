@@ -56,7 +56,7 @@ Keterangan
 > --aarch64_php8 ( Untuk PHP versi 8 dengan karnel aarch64 )<br>
 
 
->Contact admint for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20klikindomaret%20bos).<br>
+Contact admin for [Order Script](https://api.whatsapp.com/send?phone=62895375136311&text=Hallo%20mau%20order%20script%20klikindomaret%20bos).<br>
 
 # Note
 The script runs with the license key,
