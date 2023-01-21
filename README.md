@@ -32,5 +32,11 @@ $ uname -a
 ```shell
 $ git clone https://github.com/ipkzone/klikindomaret_tools
 $ cd /installer
-$ php installer.php
+$ php installer.php --aarch64_php7
+
+- Keterangan
+- --armv7_php7 ( Untuk PHP versi 7 dengan karnel armv7 )
+- --aarch64_php7 ( Untuk PHP versi 7 dengan karnel aarch64 )
+- --armv7_php8 ( Untuk PHP versi 8 dengan karnel armv7 )
+- --aarch64_php8 ( Untuk PHP versi 8 dengan karnel aarch64 )
 ```
