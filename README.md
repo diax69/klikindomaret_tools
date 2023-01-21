@@ -8,7 +8,11 @@ $ php run.php --indomaret
 ```
 # Step installations Installer
 ```shell
-# Step install installer
+- Untuk cek php anda versi berapa ketikan command di bawah ini.
+$ php -v
+```
+
+```shell
 $ git clone https://github.com/ipkzone/klikindomaret_tools
 $ cd /installer
 $ php installer.php
