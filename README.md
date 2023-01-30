@@ -1,6 +1,7 @@
 View tools klikindomaret
 <center><img src="img/licensi.png" alt="indomaret"></center>
 <center><img src="img/indomaret.png" alt="indomaret"></center>
+<center><img src="img/pay.png" alt="indomaret"></center>
 
 Fiture tools klikindomaret
 - [x] Auto masukan keranjang items dengan kode toko
